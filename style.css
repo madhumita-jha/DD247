@@ -1,0 +1,96 @@
+body{
+    background-color: black;
+}
+
+#navbar{
+    display: flex;
+    color: white;
+    justify-content: space-around;
+}
+
+#navbar p{
+    padding: 1rem 1rem;
+
+}
+
+#navbar input{
+    margin-top: 24px;
+    height: 28px;
+    width: 201px;
+    border-radius: 1rem;
+}
+
+#navbar img{
+    margin-top: -23px;
+    height: 8rem;
+    width: 8rem;
+}
+
+.left{
+    height: 20rem;
+    color: white;
+    display: flex;
+    padding-left: 5rem;
+}
+
+.btn{
+    display: flex;
+    height: 30px;
+    width: 10rem;
+    background-color: darkorange;
+    margin-left: 10rem;
+    border-radius: 10px;
+    color: black;
+    font-weight: 1000;
+}
+
+.navmiddle{
+    display: flex;
+    padding-left: 1.3rem;
+    padding-right: 1rem;
+    font-size: 20px;
+}
+
+.leftdown{
+    background-color: rgb(70, 7, 197);
+    border-radius: 2rem;
+    width: 25rem;
+    margin-left: 5rem;
+    padding: 1rem 1rem;
+}
+
+.leftdown input{
+    width: 20rem;
+    border-radius: 1rem;
+    margin-bottom: 10px;
+    height: 25px;
+}
+
+.right img{
+    margin-left: 10rem;
+    width: 52rem;
+    height: 30rem;
+}
+
+.bottom{
+    display: flex;
+    align-items: center;
+}
+
+.h1left{
+    font-size: 3rem;
+}
+
+.leftpara p{
+    font-size: 1.5rem;
+    color: rgb(117, 118, 118);
+}
+
+.leftdown h1{
+    color: white;
+}
+
+.footer{
+    float: right;
+    margin-bottom: 1rem;
+}
